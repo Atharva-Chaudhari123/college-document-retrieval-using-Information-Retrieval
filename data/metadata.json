@@ -1,0 +1,104 @@
+{
+  "DVM_Unit_1_Notes.pdf": {
+    "title": "Data Modeling Unit 1 Notes",
+    "doc_type": "Notes",
+    "subject": "Data Visualization",
+    "semester": "Semester 7"
+  },
+  "Statistics_Notes.pdf": {
+    "title": "Statistics and Probability Notes",
+    "doc_type": "Notes",
+    "subject": "Statistics",
+    "semester": "Semester 5"
+  },
+  "IR_Lecture_Notes_TFIDF.pdf": {
+    "title": "Information Retrieval Lecture Notes: TF-IDF & Vector Space Model",
+    "doc_type": "Notes",
+    "subject": "Information Retrieval",
+    "semester": "Semester 7"
+  },
+  "ML_Unit_2_Supervised_Learning.pdf": {
+    "title": "Machine Learning Unit 2 Notes: Supervised Learning",
+    "doc_type": "Notes",
+    "subject": "Machine Learning",
+    "semester": "Semester 6"
+  },
+  "DBMS_Unit_3_Normalization.pdf": {
+    "title": "DBMS Unit 3 Notes: Relational Schema & Normalization",
+    "doc_type": "Notes",
+    "subject": "Database Management",
+    "semester": "Semester 5"
+  },
+  "DVM_Previous_Year_Question_Paper.pdf": {
+    "title": "DVM Previous Year Question Paper",
+    "doc_type": "Question Paper",
+    "subject": "Data Visualization",
+    "semester": "Semester 7"
+  },
+  "IR_EndSem_Question_Paper_2025.pdf": {
+    "title": "Information Retrieval End-Sem Question Paper 2025",
+    "doc_type": "Question Paper",
+    "subject": "Information Retrieval",
+    "semester": "Semester 7"
+  },
+  "ML_MidSem_Question_Paper.pdf": {
+    "title": "Machine Learning Mid-Sem Question Paper",
+    "doc_type": "Question Paper",
+    "subject": "Machine Learning",
+    "semester": "Semester 6"
+  },
+  "IR_Assignment_1_Vector_Space.pdf": {
+    "title": "IR Assignment 1: Inverted Index & Vector Space Model",
+    "doc_type": "Assignment",
+    "subject": "Information Retrieval",
+    "semester": "Semester 7"
+  },
+  "DBMS_Assignment_2_SQL_Queries.pdf": {
+    "title": "DBMS Assignment 2: SQL & Schema Normalization",
+    "doc_type": "Assignment",
+    "subject": "Database Management",
+    "semester": "Semester 5"
+  },
+  "Data_Visualization_Syllabus.pdf": {
+    "title": "Data Visualization & Modeling Course Syllabus",
+    "doc_type": "Syllabus",
+    "subject": "Data Visualization",
+    "semester": "Semester 7"
+  },
+  "Information_Retrieval_Syllabus.pdf": {
+    "title": "Information Retrieval Course Syllabus",
+    "doc_type": "Syllabus",
+    "subject": "Information Retrieval",
+    "semester": "Semester 7"
+  },
+  "doc1.txt": {
+    "title": "AI & Machine Learning Overview",
+    "doc_type": "Notes",
+    "subject": "Artificial Intelligence",
+    "semester": "Semester 6"
+  },
+  "doc2.txt": {
+    "title": "Deep Learning & Neural Networks",
+    "doc_type": "Notes",
+    "subject": "Artificial Intelligence",
+    "semester": "Semester 6"
+  },
+  "doc3.txt": {
+    "title": "Python in Data Science",
+    "doc_type": "Notes",
+    "subject": "Machine Learning",
+    "semester": "Semester 5"
+  },
+  "assignment 3 Bioinformatics.pdf": {
+    "title": "Bioinformatics",
+    "doc_type": "Assignment",
+    "subject": "Other",
+    "semester": "Semester 7"
+  },
+  "BI Lab manual (1).pdf": {
+    "title": "bioinformatics",
+    "doc_type": "Notes",
+    "subject": "Other",
+    "semester": "Semester 7"
+  }
+}

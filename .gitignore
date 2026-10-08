@@ -6,3 +6,5 @@ venv/
 .idea/
 .vscode/
 .nltk_data/
+.pytest_cache/
+
