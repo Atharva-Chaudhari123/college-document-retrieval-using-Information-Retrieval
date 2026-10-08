@@ -1,6 +1,7 @@
 nltk
 scikit-learn
 numpy
+pandas
 pytest
 streamlit
 pypdf
